@@ -14,7 +14,7 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 20px;
-    background: yellow;
+    background: white;
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 15px;
